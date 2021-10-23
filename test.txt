@@ -1,2 +1,4 @@
 안녕하세요  코스입니다
 한줄을 더 추가하고
+
+git clone https://github.com/ZunaTtang/secondProject.git
